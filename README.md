@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Libin Babu
+- 👋 Hi, I’m Libin
 - 👀 I’m interested in security,dev
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
